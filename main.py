@@ -1,3 +1,3 @@
-import caesar_cipher
+from Caesar_Cipher import *
 sol = Solution()
 sol.encode()
