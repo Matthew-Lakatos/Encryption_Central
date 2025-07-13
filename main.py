@@ -1,10 +1,10 @@
 import time as t
 import sys
 
-import Caesar_Cipher
-import Hill_Cipher
-import Vigenere_Cipher
-import One_Time_Pad_Cipher
+import Caesar_Cipher as CC
+import Hill_Cipher as HC
+import Vigenere_Cipher as VC
+import One_Time_Pad_Cipher as OTP
 
 going = True
 while going == True:
