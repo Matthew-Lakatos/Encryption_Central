@@ -1,6 +1,6 @@
 import numpy as np
 
-class MatrixCipher:
+class HillCipher:
     def __init__(self):
         self.key_matrix = self._get_user_matrix()
         self.size = self.key_matrix.shape[0]
